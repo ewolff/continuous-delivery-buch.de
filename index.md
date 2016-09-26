@@ -25,6 +25,14 @@ Qualität der Software abzusichern.
 
 Mittlerweile ist das Buch in der zweiten Auflage erhältlich.
 
+### Leseproben
+
+Hier gibt es einige Leseproben als PDF:
+
+* [Inhaltsverzeichnis](1_Inhaltsverzeichnis.pdf)
+* [Einleitung](2_Einleitung.pdf)
+* [Continuous Delivery: Was und wie?](3_ContinuousDelivery-Wasundwie.pdf)
+
 ### Was Leser sagen
 
 Die erste Auflage des Buchs hat bei Amazon neun Rezensionen, alle mit
