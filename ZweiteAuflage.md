@@ -4,6 +4,9 @@ title: "2. Auflage"
 description: Neues in der zweiten Auflage
 ---
 
+Zweite Auflage
+---
+
 Die Neuauflage wurde in Bezug auf Werkzeuge wie Docker, Jenkins, Graphite und den ELK-Stack aktualisiert. An neuen Themen sind Docker Compose, Docker Machine, Immutable Server, Microservices und die Einführung von Continuous Delivery ohne DevOps hinzugekommen. Im Einzelnen:
 
 * Der neue Abschnitt 3.6 beschreibt das Konzept "Immutable Server",
@@ -43,13 +46,13 @@ aktuelle Versionen der Werkzeuge umgestellt.
 
 Konkret:
 
-* Die Beispiel-VMs benutzen jetzt Ubuntu15.04.
+* Die Beispiel-VMs benutzen jetzt Ubuntu 15.04.
 
-* Die Beispielanwendung verwendet SpringBoot1.3.0.
+* Die Beispielanwendung verwendet SpringBoot 1.3.0.
 
 * Das Chef-Beispiel in Abschnitt 3.3 wurde aktualisiert auf Chef 12, Java 1.8 und
 Tomcat 7
 
-* Docker aus Abschnitt 3.5 basiert jetzt auf Docker1.10.
+* Docker aus Abschnitt 3.5 basiert jetzt auf Docker 1.10.
 
 * Selenium für GUI-Tests in Abschnitt 5.4 wird in der Version 2.48.2 verwendet.
