@@ -15,6 +15,11 @@ Ausrollen der Software weitgehend automatisiert und so einen
 reproduzierbaren, risikoarmen Prozess für die Bereitstellung neuer
 Releases darstellt.
 
+### English Edition
+
+You can find more information about the English edition of the book at
+<http://continuous-delivery-book.com>. 
+
 ### Das Buch
 
 Dieses Buch erläutert, wie eine solche Pipeline praktisch aufgebaut

@@ -21,4 +21,4 @@ Weitere Links
 
 * [Präsentationen](https://prezi.com/user/ewolff/) bei Prezi
 
-<p />
+* [English Edition](http://continuous-delivery-book.com)
