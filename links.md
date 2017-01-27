@@ -7,8 +7,6 @@ description: Links zum Continuous Delivery Buch
 Links
 ---
 
-Hier noch einige Links:
-
 * [innoQ](http://innoq.com) ist der Arbeitgeber des Autors
 * [Eberhard Wolff](https://twitter.com/ewolff) bei Twitter
 * [Eberhard Wolff](https://plus.google.com/u/0/+EberhardWolff/) bei Google+

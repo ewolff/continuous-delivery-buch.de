@@ -5,10 +5,9 @@ description: Das Continuous Delivery Buch kaufen
 ---
 
 Kaufen & weitere Bücher
-
 ---
 
-Neben dem Microservices-Buch gibt es noch weitere Werke von
+Neben dem Continous-Delivery-Buch gibt es noch weitere Werke von
       Eberhard Wolff:
 
 ### Amazon
@@ -37,14 +36,14 @@ Auch als E-Book erhältlich
 <a
       href="http://www.dpunkt.de/book_details.php?id=5797&ref=1008"><img
       src="http://www.dpunkt.de/images/cover/detail/5797.jpg" width="120"
-      alt="Continuous Delivery Cover" />
-      <a
+      alt="Continuous Delivery Cover" /></a>
+<a
       href="http://www.dpunkt.de/book_details.php?id=5026&ref=1008"><img
       src="http://www.dpunkt.de/images/cover/detail/5026.jpg" width="120"
-      alt="Microservices Cover" />
-      <a
+      alt="Microservices Cover" /></a>
+<a
       href="http://www.dpunkt.de/book_details.php?id=2942&ref=1008"><img
       src="http://www.dpunkt.de/images/cover/detail/2942.jpg" width="120"
-      alt="Spring 3 Cover" />
+      alt="Spring 3 Cover" /></a>
 </p>
 </center>
