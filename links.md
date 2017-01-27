@@ -4,10 +4,8 @@ title: "Continuous Delivery Buch Links"
 description: Links zum Continuous Delivery Buch
 ---
 
-Links
+Weitere Links
 ---
-
-<p/><p/><p/><p/>
 
 * [innoQ](http://innoq.com) ist der Arbeitgeber des Autors
 
@@ -22,3 +20,6 @@ Links
 * [Präsentationen](https://speakerdeck.com/ewolff) bei Speakerdeck
 
 * [Präsentationen](https://prezi.com/user/ewolff/) bei Prezi
+
+
+His Twitter handle is @spanneberg.
