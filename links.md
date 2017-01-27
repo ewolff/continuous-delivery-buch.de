@@ -5,7 +5,6 @@ description: Links zum Continuous Delivery Buch
 ---
 
 Links
-
 ---
 
 Hier noch einige Links:

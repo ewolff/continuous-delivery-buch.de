@@ -53,7 +53,7 @@ Kapitel 4 hat Bastian Spanneberg beigetragen. Er ist IT-Berater und
 Entwickler bei der codecentric AG, wo er Kunden im Bereich Continuous
 Delivery unterstützt. Auf Twitter findet man ihn unter @spanneberg.
 
-###Beispiele
+### Beispiele
 
 Das Buch enthält ein Beispiel-Projekt. Es ist auf GitHub zu finden
 unter [https://github.com/ewolff/user-registration-V2](https://github.com/ewolff/user-registration-V2) .

@@ -17,11 +17,17 @@ macht Sie mit dem Aufbau einer Continuous-Delivery-Pipeline vertraut
 und erklärt, welche Technologien Sie dazu einsetzen können.
 
 Dabei lernen Sie u.a. folgende Themen kennen:
+
 * Infrastruktur-Automatisierung mit Chef, Docker und Vagrant
+
 * Automatisierung von Builds und Continuous Integration
+
 * Akzeptanztests, Kapazitätstests, exploratives Testen
+
 * Einführung von Continuous Delivery im Unternehmen
+
 * Continuous Delivery und DevOps
+
 * Auswirkungen auf die Softwarearchitektur
 
 Als praktisches Beispiel wird ein konkreter Technologie-Stack
