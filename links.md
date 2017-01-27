@@ -21,5 +21,4 @@ Weitere Links
 
 * [Präsentationen](https://prezi.com/user/ewolff/) bei Prezi
 
-
-His Twitter handle is @spanneberg.
+<p />
