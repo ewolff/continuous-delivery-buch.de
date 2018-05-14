@@ -8,6 +8,13 @@
     <title>{{ page.title }}</title>
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-421903-4"></script>
 <script>
+   if (document.cookie.indexOf('disable-google-analytics=true') > -1) {
+     window['ga-disable-UA-421903-4'] = true;
+   }
+   function gaOptout() {
+     document.cookie = 'disable-google-analytics=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+     window['ga-disable-UA-421903-4'] = true;
+   }
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
@@ -44,7 +51,11 @@
     <div id="footer_wrap" class="outer">
       <footer class="inner">
         <p class="copyright">Copyright Eberhard Wolff</p>
-        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
+        <p>Published with <a href="https://pages.github.com">GitHub
+      Pages</a>
+      <a href="datenschutzerklaerung.html">Datenschutzerklärung</a>
+      <a href="impressum.html">Impressum</a>
+      </p>
       </footer>
     </div>
   </body>
